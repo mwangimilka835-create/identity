@@ -8,8 +8,8 @@ I am an Information Technology professional (Diploma with Distinction) specializ
 
 🚀 Key Projects
 
-[Automated Inventory System](https://mwangimilka835-create.github.io/inventory-system/)**
-   An A-Grade optimized tool for SMEs.
+[Automated Inventory System](https://mwangimilka835-create.github.io/inventory-system/)
+  An A-Grade optimized tool for SMEs.
   Performance:100% 
 Structure:98% (GTmetrix)
 [Milly_Hub](https://mwangimilka835-create.github.io/milly_hub)
